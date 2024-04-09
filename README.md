@@ -8,4 +8,4 @@ The given data illustrates whether the marketing project is successful or not. T
  Modeling, using one of the most popular Random Forest algorithm for both classification and regression data types
  
  Finally,  evaluating, reaching our optimized scores (Gini and Roc_auc)
-![Photo](https://github.com/suleyman008/Marketing-data/assets/128426161/f907f832-bfd1-4b3d-8545-862a02a8737c)
+
